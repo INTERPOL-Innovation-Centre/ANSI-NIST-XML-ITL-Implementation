@@ -81,4 +81,6 @@ put all the missing info to generate the doc (xpath, tags, mandatoriness..)"
 - add 15.021
 - 13.014-A: allow code 0, as per NIST pdf. No impact on the doc, as the field is not used for INTERPOL
 - 1.009 and 1.010: fix the examples"
-"","",""
+"06.00.00","2019-04-09 00:00:00","-1.009 and 1.010: change regexp
+-1.013: fix example
+-2.023:X3-A to 2.023:X3-G: update description to reflect place of fingerprinting rather than place of birth"
