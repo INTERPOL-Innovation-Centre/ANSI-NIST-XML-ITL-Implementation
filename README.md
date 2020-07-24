@@ -1,6 +1,6 @@
-# INTERPOL's Implementation for ANSI/NIST ITL standard
+# INTERPOL's Implementation (v6.00) for ANSI/NIST XML standard
 
-This repository contains the draft version of INTERPOL's implementation for ANSI/NIST ITL.
+This repository contains the latest version of INTERPOL's implementation for ANSI/NIST XML Standard.
 
 The package includes:
 
@@ -8,13 +8,12 @@ The package includes:
 *  the xsd files describing the implementation
 *  examples
 *  the Machine Readable Tables describing the format
-*  the ANSI/NIST umbrella standard INTERPOL's implementation is based on
 
 ## Getting the package
-The package can be downloaded [here](https://bitbucket.org/int_faas/interpol-implementation-for-ansi-nist-itl-standard/get/06.00.00b.zip).
+The package can be downloaded directly from this page.
 
 ## Providing feedback or submitting issues
-Feedback, questions, or issues can be submitted through the bugtracker [here](https://bitbucket.org/int_faas/interpol-implementation-for-ansi-nist-itl-standard/issues/new).
+Feedback, questions, or issues can and should be submitted via the Issue Page https://github.com/INTERPOL-Innovation-Centre/ANSI-NIST-ITL-XML-Implementation/issues
 
 ## Next milestones
 This table lists the next milestones of the publication of this standard.
