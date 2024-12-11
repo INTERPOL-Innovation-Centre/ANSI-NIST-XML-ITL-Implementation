@@ -379,7 +379,7 @@
                 <!-- 9.137-A FMD/MAN -->
                 <!-- ========= -->
                 <biom:MinutiaIdentification>
-                    <nc:IdentificationID>0</nc:IdentificationID>
+                    <nc:IdentificationID>1</nc:IdentificationID>
                 </biom:MinutiaIdentification>
                 <!-- ========= -->
                 <!-- 9.137 9/FMD/MXC_9/FMD/MAV-->
@@ -498,7 +498,7 @@
                     <!-- 9.138-E NMN -->
                     <!-- ========= -->
                     <biom:MinutiaReferenceIdentification>
-                        <nc:IdentificationID>0</nc:IdentificationID>
+                        <nc:IdentificationID>1</nc:IdentificationID>
                     </biom:MinutiaReferenceIdentification>
                     <!-- ========= -->
                     <!-- 9.138-D NRC -->
