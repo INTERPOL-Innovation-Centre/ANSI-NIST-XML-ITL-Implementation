@@ -48,7 +48,7 @@
             <!-- 1.014 GMT-->
             <!-- ========== -->
             <biom:TransactionUTCDate>
-                <nc:DateTime>2016-04-10T10:46:32-05:00</nc:DateTime>
+                <nc:DateTime>2016-04-10T13:46:32Z</nc:DateTime>
             </biom:TransactionUTCDate>
             <!-- ========== -->
             <!-- 1.009 TCN-->
