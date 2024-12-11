@@ -48,7 +48,7 @@
             <!-- 1.014 GMT-->
             <!-- ========== -->
             <biom:TransactionUTCDate>
-                <nc:DateTime>2016-04-10T10:46:32-05:00</nc:DateTime>
+                <nc:DateTime>2016-04-10T13:46:32Z</nc:DateTime>
             </biom:TransactionUTCDate>
             <!-- ========== -->
             <!-- 1.009 TCN-->
@@ -379,7 +379,7 @@
                 <!-- 9.137-A FMD/MAN -->
                 <!-- ========= -->
                 <biom:MinutiaIdentification>
-                    <nc:IdentificationID>0</nc:IdentificationID>
+                    <nc:IdentificationID>1</nc:IdentificationID>
                 </biom:MinutiaIdentification>
                 <!-- ========= -->
                 <!-- 9.137 9/FMD/MXC_9/FMD/MAV-->
@@ -498,7 +498,7 @@
                     <!-- 9.138-E NMN -->
                     <!-- ========= -->
                     <biom:MinutiaReferenceIdentification>
-                        <nc:IdentificationID>0</nc:IdentificationID>
+                        <nc:IdentificationID>1</nc:IdentificationID>
                     </biom:MinutiaReferenceIdentification>
                     <!-- ========= -->
                     <!-- 9.138-D NRC -->
